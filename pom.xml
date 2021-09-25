@@ -83,6 +83,7 @@
 
     </dependencies>
 
+    <!--
     <build>
         <finalName>CashSessionBot</finalName>
         <defaultGoal>package</defaultGoal>
@@ -102,5 +103,6 @@
             </plugin>
         </plugins>
     </build>
+    -->
 
 </project>
