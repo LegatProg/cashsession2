@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>securing-web-initial</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>securing-web-initial</name>
+    <artifactId>securingweb</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>securingweb</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -134,7 +134,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>SecuringWebApplication</mainClass>
+                            <mainClass>com.example.securingweb.SecuringWebApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

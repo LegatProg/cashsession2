@@ -8,12 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="99a64773-abf2-43a6-8730-2ef355891b7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SecuringWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SecuringWebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/securingweb/SecuringWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SecuringWebApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,16 +28,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -187,8 +181,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/Application-dev.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/Application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/securingweb/SecuringWebApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -251,6 +245,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.securingweb.service" />
       <recent name="com.example.securingweb.controller" />
@@ -276,7 +273,7 @@
   </component>
   <component name="RunManager">
     <configuration name="SecuringWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecuringWebApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.example.securingweb.SecuringWebApplication" />
       <module name="Spring" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=dev" />
       <method v="2">
@@ -291,6 +288,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2446352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,7 +333,8 @@
     <MESSAGE value="jaxb" />
     <MESSAGE value="manifest" />
     <MESSAGE value="procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="procfile" />
+    <MESSAGE value="main class retargeted" />
+    <option name="LAST_COMMIT_MESSAGE" value="main class retargeted" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/5.3.0/telegrambots-5.3.0.jar!/org/telegram/telegrambots/bots/DefaultAbsSender.class">
@@ -692,13 +691,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SecuringWebApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -713,6 +705,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
         </state>
       </provider>
     </entry>
