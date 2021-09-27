@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a64773-abf2-43a6-8730-2ef355891b7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
-    </list>
+    <list default="true" id="99a64773-abf2-43a6-8730-2ef355891b7d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="141" column="14" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+            <state relative-caret-position="411">
+              <caret line="141" column="18" lean-forward="true" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -203,47 +199,6 @@
               <item name="securityTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="securityTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="securityTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="securityTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="securityTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="securingweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="securityTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="securityTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -301,7 +256,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2446352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -344,7 +298,8 @@
     <MESSAGE value="aaaa11" />
     <MESSAGE value="aaaa111" />
     <MESSAGE value="jaxb" />
-    <option name="LAST_COMMIT_MESSAGE" value="jaxb" />
+    <MESSAGE value="manifest" />
+    <option name="LAST_COMMIT_MESSAGE" value="manifest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/5.3.0/telegrambots-5.3.0.jar!/org/telegram/telegrambots/bots/TelegramLongPollingBot.class">
@@ -720,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="141" column="14" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+        <state relative-caret-position="411">
+          <caret line="141" column="18" lean-forward="true" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
         </state>
       </provider>
     </entry>
