@@ -134,7 +134,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.example.securingweb.SecuringWebApplication</mainClass>
+                            <mainClass>SecuringWebApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
